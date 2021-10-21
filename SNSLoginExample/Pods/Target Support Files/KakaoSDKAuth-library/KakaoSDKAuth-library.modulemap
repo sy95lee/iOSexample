@@ -1,0 +1,6 @@
+module KakaoSDKAuth {
+  umbrella header "KakaoSDKAuth-library-umbrella.h"
+
+  export *
+  module * { export * }
+}

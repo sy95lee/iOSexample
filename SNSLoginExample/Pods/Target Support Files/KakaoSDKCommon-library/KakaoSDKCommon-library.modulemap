@@ -1,0 +1,6 @@
+module KakaoSDKCommon {
+  umbrella header "KakaoSDKCommon-library-umbrella.h"
+
+  export *
+  module * { export * }
+}
